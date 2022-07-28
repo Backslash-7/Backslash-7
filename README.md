@@ -6,6 +6,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adarshrai_7)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/adarshrai_7?share_id=d07C_NDWG40&locale=en-US)
 
+![about](https://user-images.githubusercontent.com/98210987/181646957-c092136e-611b-46df-80b0-7dcb80e8aece.png)
+
 ## 🔗 Technology Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -36,5 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Backslash-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Backslash-7&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Backslash-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
