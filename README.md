@@ -5,11 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adarshrai_7/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adarshrai_7)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/adarshrai_7?share_id=d07C_NDWG40&locale=en-US)
-<!--
-![carbon](https://user-images.githubusercontent.com/98210987/181652212-75a08e53-2d40-45a8-9bcd-a5b3d9ebd6d9.png)
-
-![carbon (1)](https://user-images.githubusercontent.com/98210987/181652227-bb02965a-6f53-45e1-9731-e166c2f85acc.png)
--->
 
 ![carbon (2)](https://user-images.githubusercontent.com/98210987/181652556-312b43a3-6252-4e52-9a20-4ddf5bd9ae14.png)
 
@@ -34,9 +29,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-
-
-
 
 ## 📈 GitHub Stats:
 
