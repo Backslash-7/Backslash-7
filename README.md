@@ -1,4 +1,4 @@
-![Adarsh ](https://user-images.githubusercontent.com/98210987/181593889-dd661343-3b1c-46d8-96e4-67645f20983e.png)
+![Adarsh](https://user-images.githubusercontent.com/98210987/181611556-89049ed6-89f8-4227-9a56-872bddcfa38b.png)
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Backslash-7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-rai7/)
