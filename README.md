@@ -6,7 +6,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adarshrai_7)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/adarshrai_7?share_id=d07C_NDWG40&locale=en-US)
 
-![carbon (2)](https://user-images.githubusercontent.com/98210987/181652556-312b43a3-6252-4e52-9a20-4ddf5bd9ae14.png)
 
 ## 🔗 Technology Stack:
 
